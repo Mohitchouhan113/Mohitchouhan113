@@ -100,11 +100,10 @@ Creating responsive, animation-focused websites using **React, Tailwind CSS and 
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohitchouhan113/mohitchouhan113/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohitchouhan113/mohitchouhan113/output/github-contribution-grid-snake.svg" />
-  <img alt="Mohit Chouhan Contribution Snake Animation" src="https://raw.githubusercontent.com/mohitchouhan113/mohitchouhan113/output/github-contribution-grid-snake.svg" />
-</picture>
+<img
+  src="https://raw.githubusercontent.com/mohitchouhan113/Mohitchouhan113/gh-pages/github-contribution-grid-snake-dark.svg"
+  alt="Mohit Chouhan Contribution Snake Animation"
+/>
 
 </div>
 
