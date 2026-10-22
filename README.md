@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=YOUR_NAME&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Software%20Engineer&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=I'M MOHIT&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Software%20Engineer&descAlignY=55&descSize=18"/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Mohitchouhan113&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views"/>
   &nbsp;&nbsp;
   <a href="https://github.com/Mohitchouhan113?tab=followers"><img src="https://img.shields.io/github/followers/Mohitchouhan113?label=Followers&style=social" alt="GitHub Followers"/></a>
   &nbsp;&nbsp;
