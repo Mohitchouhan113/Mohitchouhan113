@@ -36,15 +36,15 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "YOUR_NAME"
-        self.role = ["AI Engineer", "Software Engineer"]
+        self.name = "MOHIT CHOUHAN"
+        self.role = ["Mern Full Stack Web Developer, AI Engineer", "Software Engineer"]
         self.education = "Computer Science / Information Technology"
-        self.location = "India"
-        self.website = "yourwebsite.com"
+        self.location = "India, Indore [M.P]"
+        self.website = "https://mohit-portfolio-bice-chi.vercel.app/"
 
     def tech(self):
         return {
-            "languages": ["Python", "TypeScript", "Go", "Java", "Solidity"],
+            "languages": ["JavaScript", "TypeScript", "C", "C++"],
             "ai_ml": ["TensorFlow", "PyTorch", "LangChain", "OpenCV", "YOLO", "Hugging Face"],
             "backend": ["Node.js", "FastAPI", "Spring Boot", "Express.js", "Django", "Gin"],
             "frontend": ["Next.js", "React", "Tailwind CSS", "Three.js"],
